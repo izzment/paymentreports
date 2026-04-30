@@ -1,4 +1,4 @@
-# Automated Economic Classification & Risk Scoring of Nigerian Government Payment Reports
+# Automated Classification & Risk Scoring of Nigerian Government Payment Reports
 
 Machine learning system for classifying and analyzing Nigerian government payment transactions from the Open Treasury Portal between 2020 and 2025.
 
